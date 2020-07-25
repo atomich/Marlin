@@ -1,3 +1,5 @@
+This is a custom setup of Marlin for my ender 3, modded currently with a BTT SKR1.4 Turbo (TMC2130 Steppers), a micro swiss all metal hot end, and a glass bed. Intended future modifications include auto bed leveling (BLTouch) and onboard lighting. I primarily print in PLA+, however would like to experiment with filled nylon. 
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
